@@ -1,0 +1,4 @@
+MyPhoneGapApplication
+=====================
+
+Multiplatform application
