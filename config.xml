@@ -33,11 +33,11 @@
     <access origin="*"/>
     
     <!-- <content src="http://mysite.com/myapp.html" /> for external pages -->
-    <content src="index.html" />
+    <content src="android_asset/www/index.html" />
 
-  
+ 
     <preference name="loglevel" value="DEBUG" />
-     <!--
+    <!--
       <preference name="splashscreen" value="resourceName" />
       <preference name="backgroundColor" value="0xFFF" />
       <preference name="loadUrlTimeoutValue" value="20000" />
